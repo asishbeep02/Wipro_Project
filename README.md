@@ -62,7 +62,9 @@
     ./maintenance_suite.sh
 
 # 🧩 Example Menu
-          System Maintenance Suite
+====================
+System Maintenance Suite
+====================
           
 1. Perform System Backup
 2. Update and Clean System
