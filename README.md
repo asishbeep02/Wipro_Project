@@ -66,11 +66,14 @@
   System Maintenance Suite
 ========================================
 1. Perform System Backup
-2. Update and Clean System
-3. Monitor Logs
-4. Exit
-Enter your choice:
 
+2. Update and Clean System
+
+3. Monitor Logs
+
+4. Exit
+
+Enter your choice:
 
 # 🧪 Testing & Validation
 
