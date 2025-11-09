@@ -1,10 +1,10 @@
 # Wipro_Project 
-📘 Project Overview
+# 📘 Project Overview
 . This project is part of the Capstone series that integrates Linux Operating System (LinuxOS) and Linux System Programming (LSP) concepts.
 . Assignment 5 focuses on creating a suite of Bash scripts to automate essential system maintenance tasks such as system backups, updates, cleanup, and log monitoring.
 . The scripts are designed to improve system reliability and reduce manual intervention by automating routine administrative jobs.
 
-🎯 Objectives
+# 🎯 Objectives
 
 . Automate system backup, update, and cleanup operations.
 
@@ -14,15 +14,15 @@
 
 . Implement error handling and logging mechanisms to ensure reliability.
 
-🗂️ Day-wise Task Breakdown
-Day	                Task
+# 🗂️ Day-wise Task Breakdown
+# Day	                Task
 Day 1	      Write a Bash script for automated system backups.
 Day 2	      Create a script for system updates and cleanup.
 Day 3	      Develop a log monitoring script that detects and alerts on specific conditions.
 Day 4	      Combine all scripts into a unified maintenance suite with a menu-driven interface.
 Day 5	      Perform testing, add error handling, and logging functionalities for robustness.
 
-⚙️ Features
+# ⚙️ Features
 
 . Automated Backups – Scheduled or manual file backups to designated directories.
 
@@ -34,7 +34,7 @@ Day 5	      Perform testing, add error handling, and logging functionalities for
 
 . Error Handling & Logging – Captures script errors and logs them for analysis.
 
-🧰 Technologies Used
+# 🧰 Technologies Used
 
 . Shell Scripting (Bash)
 
@@ -42,23 +42,23 @@ Day 5	      Perform testing, add error handling, and logging functionalities for
 
 . System Logging (syslog, journalctl)
 
-🚀 How to Run
+# 🚀 How to Run
 
 . Clone or download the repository.
 
 . Navigate to the project directory:
 
-  cd Assignment5_SystemMaintenance
+     cd Assignment5_SystemMaintenance
 
 . Make the scripts executable:
 
-   chmod +x *.sh
+        chmod +x *.sh
 
 . Run the main maintenance suite:
 
     ./maintenance_suite.sh
 
-🧩 Example Menu
+# 🧩 Example Menu
 ========================================
   System Maintenance Suite
 ========================================
@@ -68,7 +68,7 @@ Day 5	      Perform testing, add error handling, and logging functionalities for
 4. Exit
 Enter your choice:
 
-🧪 Testing & Validation
+# 🧪 Testing & Validation
 
 . Each script was tested individually for functionality and error resilience.
 
@@ -76,7 +76,7 @@ Enter your choice:
 
 . Simulated log errors were used to verify the monitoring script’s alerting behavior.
 
-📝 Future Improvements
+# 📝 Future Improvements
 
 . Add email notifications for alerts.
 
