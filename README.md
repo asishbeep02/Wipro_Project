@@ -17,16 +17,16 @@
 . Implement error handling and logging mechanisms to ensure reliability.
 
 # 🗂️ Day-wise Task Breakdown
-# Day	                          Task
-Day 1	             Write a Bash script for automated system backups.
+# Day	                                             Task
+Day 1	                         Write a Bash script for automated system backups.
 
-Day 2	             Create a script for system updates and cleanup.
+Day 2	                         Create a script for system updates and cleanup.
 
-Day 3	             Develop a log monitoring script that detects and alerts on specific conditions.
+Day 3	                         Develop a log monitoring script that detects and alerts on specific conditions.
 
-Day 4	             Combine all scripts into a unified maintenance suite with a menu-driven interface.
+Day 4	                         Combine all scripts into a unified maintenance suite with a menu-driven interface.
 
-Day 5	             Perform testing, add error handling, and logging functionalities for robustness.
+Day 5	                         Perform testing, add error handling, and logging functionalities for robustness.
 
 # ⚙️ Features
 
