@@ -1,7 +1,9 @@
 # Wipro_Project 
 # 📘 Project Overview
 . This project is part of the Capstone series that integrates Linux Operating System (LinuxOS) and Linux System Programming (LSP) concepts.
+
 . Assignment 5 focuses on creating a suite of Bash scripts to automate essential system maintenance tasks such as system backups, updates, cleanup, and log monitoring.
+
 . The scripts are designed to improve system reliability and reduce manual intervention by automating routine administrative jobs.
 
 # 🎯 Objectives
